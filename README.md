@@ -233,33 +233,6 @@ Reporting & Recommendations
 
 ---
 
-# Repository Structure
-
-
-Network-Security-Assessment/
-
-│
-├── README.md
-│
-├── Screenshots/
-│   ├── network_discovery.png
-│   ├── service_scan.png
-│   ├── nikto_results.png
-│   ├── burpsuite_testing.png
-│   └── wireshark_capture.png
-│
-├── Scan-Results/
-│   ├── nmap_scan.txt
-│   └── nikto_scan.txt
-│
-├── Reports/
-│   └── Vulnerability_Assessment_Report.pdf
-│
-└── Documentation/
-    └── remediation_steps.md
-
----
-
 # Challenges Faced During Implementation
 
 ## OpenVAS / Greenbone Community Edition Issue
